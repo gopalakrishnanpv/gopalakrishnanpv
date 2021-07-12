@@ -10,7 +10,7 @@
   
 **Development Technologies**
 
-  🟡 Angular 8
+  🟡 Angular
   
   🟡 Node Js
   
