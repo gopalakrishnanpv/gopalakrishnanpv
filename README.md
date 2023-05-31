@@ -2,7 +2,7 @@
 
 💻 Software engineer in testing with 8+ years of experience into multiple Automation testing and Development technologies.
 
-Find my work on my portfolio website (https://portfolio-gopalakrishnan.vercel.app)
+Find more about me on my portfolio website (https://portfolio-gopalakrishnan.vercel.app)
 
 **Testing Technologies**
 
