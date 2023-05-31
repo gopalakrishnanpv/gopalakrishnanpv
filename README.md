@@ -1,6 +1,8 @@
-😊 Hi, I’m @gopalakrishnan-pv
+😊 Hi, I’m Gopalakrishnan (@gopalakrishnanpv)
 
-💻 Software engineer in testing with 6+ years of experience into multiple Automation testing and Development technologies.
+💻 Software engineer in testing with 8+ years of experience into multiple Automation testing and Development technologies.
+
+Find my work on my portfolio website (https://portfolio-gopalakrishnan.vercel.app)
 
 **Testing Technologies**
 
